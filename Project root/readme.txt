@@ -1,2 +1,2 @@
 ﻿Спека по проекту
-//khramtsov connect
+//khramtsov connect v2
